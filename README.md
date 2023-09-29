@@ -1,2 +1,2 @@
 # Ingfo
-Ingfo saya
+Setup for my profile.
