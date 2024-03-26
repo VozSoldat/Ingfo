@@ -5,4 +5,4 @@
 Currently a freshman student at the Information Technology Department of State Polytechnic of Malang.
 
 #### Reach me:
-IG: erril_putra
+IG: vozsoldat
