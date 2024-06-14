@@ -5,4 +5,4 @@
 Currently a freshman student at the Information Technology Department of State Polytechnic of Malang.
 
 #### Reach me:
-IG: vozsoldat
+IG: [erril_voz](https://www.instagram.com/erril_voz)
