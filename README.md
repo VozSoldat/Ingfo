@@ -7,7 +7,7 @@ Currently a freshman student at the Information Technology Department of State P
 I'm into 🎮game development and 🎨art.
 
 # Portofolio
-- See my game portofolio.
+- See my game [portofolio](https://github.com/VozSoldat/VozSoldat/blob/main/portofolio/game.md).
 
 #### Reach me:
 IG: [erril_voz](https://www.instagram.com/erril_voz)
