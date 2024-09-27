@@ -1,11 +1,11 @@
 # Game Art Portofolio
-[Lihat galeri.](https://github.com/VozSoldat/VozSoldat/tree/main/portofolio/img)
+- ### [Lihat galeri.](img/)
 ## Art di [CQB 2D](https://github.com/VozSoldat/CQB_2D_Game)
-<img src="img/ak47_20240822210235.png">
+<img src="img/ak47_20240822210235.png" width=60%>
 
 Di atas adalah karakter sprite dari polisi Indonesia dengan senjata AK-101. karakter polisi adalah salah satu karakter yang dapat dimainkan, di antaranya ada tentara, polisi, pasukan khusus TNI, dan polisi khusus.
 
-<img src="img\ak47_20240705092654.png">
+<img src="img\ak47_20240705092654.png" width=60%>
 
 Di atas adalah sprite dari pasukan Brimob Polri dengan senjata AKM. 
 
