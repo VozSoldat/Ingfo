@@ -1,4 +1,4 @@
 # Game Art Portofolio
-[Lihat galeri.](https://1drv.ms/f/s!ApNtTVgoQRMvzCMKCM6ZDnSAIuPN?e=lZrNN0)
+[Lihat galeri.](portofolio\img)
 ## Art di [CQB 2D](https://github.com/VozSoldat/CQB_2D_Game)
-<img src="https://1drv.ms/i/s!ApNtTVgoQRMvzCcys2Ij_EuxuwNd?e=qbTnoZ">
+<img src="portofolio\img\ak47_20240822210235.png">
