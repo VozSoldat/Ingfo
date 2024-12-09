@@ -1,3 +1,5 @@
+<img src="/src/images/WhatsApp%20Image%202024-11-13%20at%2019.17.20_73ab543d.jpg" width="500">
+
 # Greetings!
 ## I'm Muhammad Erril Putra Pratidina
 <sub>What a hassle... Just call me Erril.</sub>
