@@ -1,4 +1,4 @@
-<img src="/src/images/WhatsApp%20Image%202024-11-13%20at%2019.17.20_73ab543d.jpg" width="300">
+<img src="/src/images/WhatsApp%20Image%202024-11-13%20at%2019.17.20_73ab543d.jpg" width="250">
 
 # Greetings!
 ## I'm Muhammad Erril Putra Pratidina
