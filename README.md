@@ -9,7 +9,7 @@
 ### Call me **Erril**
 ##### fully, Muhammad Erril Putra Pratidina
 
-I'm an aspiring game developer and a informatics eng. student. Currently, I'm really go for technologies—but not limited to—below.
+I'm an aspiring game developer and an informatics eng. student. Currently, I'm really go for technologies—but not limited to—below.
 
 - 🎮 **Unity** & **C#**
 - 🟪 **ASP.NET**
