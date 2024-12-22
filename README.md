@@ -30,3 +30,8 @@ I'm also into digital arts, especially **Pixel Art** for game.
 - Email: errilputra@gmail.com
 
 ---
+### Also check my portfolio
+
+- [Game Portofolio](portofolio/game.md)
+- [Game Art Portofolio](portofolio/game-art.md)
+
