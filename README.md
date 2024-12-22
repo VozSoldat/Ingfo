@@ -1,15 +1,32 @@
-<img src="/src/images/WhatsApp%20Image%202024-11-13%20at%2019.17.20_73ab543d.jpg" width="250">
+<h1 align="center">Greetings!📡</h1>
 
-# Greetings!
-## I'm Muhammad Erril Putra Pratidina
-<sub>What a hassle... Just call me Erril.</sub>
+<p align="center">
+  <img src="/src/images/WhatsApp%20Image%202024-11-13%20at%2019.17.20_73ab543d.jpg" width="250">
+</p>
 
-Currently a freshman student at the Information Technology Department of State Polytechnic of Malang.
+---
 
-I'm into 🎮game development and 🎨art.
+### Call me **Erril**
+##### fully, Muhammad Erril Putra Pratidina
 
-# Portofolio
-- See my game [portofolio](https://github.com/VozSoldat/VozSoldat/blob/main/portofolio/game.md).
+I'm an aspiring game developer and a informatics eng. student. Currently, I'm really go for technologies—but not limited to—below.
 
-#### Reach me:
-IG: [erril_voz](https://www.instagram.com/erril_voz)
+- 🎮 **Unity** & **C#**
+- 🟪 **ASP.NET**
+
+I'm also into digital arts, especially **Pixel Art** for game.
+
+---
+
+### Goals 🎯
+- 🎯 **Short-Term Goal**: To master solid number of programming languages.
+- 🚀 **Long-Term Goal**: To expand my expertise in computer graphic technologies.
+
+---
+
+### How to Reach Me 📫
+
+- [LinkedIn](https://linkedin.com/in/muhammad-erril)
+- Email: errilputra@gmail.com
+
+---
